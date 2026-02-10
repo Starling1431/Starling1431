@@ -98,8 +98,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Starling1431&show_icons=true&theme=react" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starling1431&layout=compact&theme=react" alt="Top Languages" width="48%"/>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starling1431)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <hr>
