@@ -96,9 +96,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Starling1431&theme=react&show_icons=true&include_all_commits=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starling1431&theme=react&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=Starling1431&show_icons=true&theme=react" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starling1431&layout=compact&theme=react" alt="Top Languages" width="48%"/>
 </p>
 
 <hr>
