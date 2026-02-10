@@ -97,9 +97,16 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starling1431)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+<table align="center">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starling1431&amp;theme=dark&amp;hide_border=false"> 
+</td><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=starling1431&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
 
 <hr>
 <hr>
