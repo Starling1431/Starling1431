@@ -79,12 +79,15 @@
 </p>
 
 <h3 align="center">Frameworks & Tech:</h3>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> <!-- React Native -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" width="40" height="40" alt="Expo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="40" height="40" alt="Astro"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
 </p>
 
 <h3 align="center">Databases:</h3>
