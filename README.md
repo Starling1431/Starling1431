@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Starling Montero <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Front-End Developer (Desktop &amp; Web) </h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=317CF7&width=435&lines=Web+Developer;Software+Developer;Frontend+Dev;Linux+Enjoyer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=317CF7&width=435&lines=Web+Developer;Software+Developer;Frontend+Dev;Linux+Enjoyer" alt="Typing SVG" /></a>
 <ul>
 <li>
 <p>🌍 I’m from <strong>Dominican Republic 🇩🇴</strong></p>
